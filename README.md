@@ -10,15 +10,15 @@ Este projeto consiste no desenvolvimento de uma infraestrutura de redes para uma
 
 ## Integrantes
 
-*Marcos Sabino Mendes de Sousa 
-*Marco Túlio Denucci Di Spirito 
-*Talis Lopes Pereira 
-*Gabriel Mazock de Assis Silva 
-*Petrônio Neves Moreira 
-*Caike Bruno do Val Vicente
+* Marcos Sabino Mendes de Sousa 
+* Marco Túlio Denucci Di Spirito 
+* Talis Lopes Pereira 
+* Gabriel Mazock de Assis Silva 
+* Petrônio Neves Moreira 
+* Caike Bruno do Val Vicente
 
 ## Orientador
 
-*Alexandre Teixeira
+* Alexandre Teixeira
 
 
