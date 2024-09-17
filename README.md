@@ -1,4 +1,4 @@
-# Título do Projeto
+# IMPLEMENTAÇÃO DE INFRAESTRUTURA DE REDES DE COMPUTADORES EM UMA ONG 
 
 `CURSO: Sistemas de Informação`
 
@@ -6,18 +6,19 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto consiste no desenvolvimento de uma infraestrutura de redes para uma ONG com uma matriz e três filiais, visando garantir conectividade eficiente, segura e econômica entre as unidades. A proposta inclui a criação de uma rede que integre todas as sedes, permitindo comunicação rápida, compartilhamento de dados e recursos de maneira colaborativa.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+*Marcos Sabino Mendes de Sousa 
+*Marco Túlio Denucci Di Spirito 
+*Talis Lopes Pereira 
+*Gabriel Mazock de Assis Silva 
+*Petrônio Neves Moreira 
+*Caike Bruno do Val Vicente
 
 ## Orientador
 
-* Nome completo do professor 1
+*Alexandre Teixeira
 
 
