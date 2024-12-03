@@ -25,8 +25,9 @@ Este projeto consiste no desenvolvimento de uma infraestrutura de redes para uma
 ## Etapas
 
 * [Etapa 1](docs/etapa1)
-* Etapa 2
-* Etapa 3
-* Etapa 4
-* Etapa 5
+* [Etapa 2](docs/etapa2)
+* [Etapa 3](docs/etapa3)
+* [Etapa 4](docs/etapa4)
+* [Etapa 5](docs/etapa5)
+
 
