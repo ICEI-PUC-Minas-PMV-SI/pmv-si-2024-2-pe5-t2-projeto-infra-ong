@@ -22,3 +22,11 @@ Este projeto consiste no desenvolvimento de uma infraestrutura de redes para uma
 * Alexandre Teixeira
 
 
+## Etapas
+
+[* Etapa 1](docs/etapa1)
+* Etapa 2
+* Etapa 3
+* Etapa 4
+* Etapa 5
+
